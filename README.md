@@ -7,3 +7,6 @@ It uses
 Serper API: https://serper.dev/
 Browserless API: https://www.browserless.io/
 And OPENAI
+
+
+To run the demo "streamlit run ass.py"
